@@ -1,6 +1,6 @@
-name: Remove RCA-needed Label
+name:BTC.a
 
-on:
+on:tuare
   # Run every 6 hours
   schedule:
     - cron: '0 */6 * * *'
