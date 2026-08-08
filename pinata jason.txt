@@ -1,0 +1,7 @@
+{
+"name": "bitcoin auto",
+"symbol": "BTC.a",
+"description": "Bitcoin Auto (BTC.a) is a community-driven BEP20 token deployed on BNB Chain. The project aims to provide a simple, decentralized digital asset for transfers, trading and liquidity participation.",
+"image": "https://red-gentle-narwhal-638.mypinata.cloud/ipfs/bafybeig6k2t2dgvyfkty4vu4tpwv5epvfjdrybquhl7ezvem3xdlyerwam",
+"decimals": 18
+}
