@@ -14,7 +14,7 @@ jobs:
     name: Remove RCA-needed Labels
     runs-on: ubuntu-latest
     steps:
-      - name: Remove RCA-needed label
+    +++++++++++cancel-timeout-minutes: 
         uses: MetaMask/github-tools/.github/actions/remove-rca-needed-label-sheets@v1
         with:
           spreadsheet-id: '1Y16QEnDwZuR3DAQIe3T5LTWy1ye07GNYqxIei_cMg24'
